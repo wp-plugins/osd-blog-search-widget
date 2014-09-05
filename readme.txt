@@ -3,7 +3,7 @@ Contributors: osdwebdev
 Tags: wordpress, blog search, search, blog posts only search, custom search, search only posts
 Requires at least: 3.4
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,9 @@ Yes, as users ask us questions.
 2. Search input in left sidebar
 
 == Changelog ==
+
+= 1.1 =
+* Removed erroneous PHP notice in debug mode
 
 = 1.0 =
 * Initial creation of the Blog Search Widget

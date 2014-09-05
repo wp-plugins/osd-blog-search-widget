@@ -23,7 +23,7 @@
 		public function widget($args, $instance) {
 			extract($args);	 
 			$title = apply_filters('widget_title', $instance['title']);
-			$extra_menu_args = array('container' => '', 'menu' => $instance['menu_item'], 'walker_args' => array());
+			$extra_menu_args = array('container' => '', 'walker_args' => array());
 
 			echo $before_widget;
 	 
