@@ -3,7 +3,7 @@
 	Plugin Name: OSD Blog Search Widget
 	Plugin URI: http://outsidesource.com
 	Description: A plugin that adds a new widget that will add a search form for blog posts only.
-	Version: 1.0
+	Version: 1.1
 	Author: OSD Web Development Team
 	Author URI: http://outsidesource.com
 	License: GPL2v2

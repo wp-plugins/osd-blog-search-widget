@@ -52,7 +52,7 @@ Adds a search box that searches blog posts only
 4. Your site will now have 2 search options.
 3. Lightweight
 
-Link to plugin page [Wordpress plugin page](http://wordpress.org/plugins/osd-simple-table/ "Link").
+Link to plugin page [Wordpress plugin page](https://wordpress.org/plugins/osd-blog-search-widget/ "Link").
 
 [markdown syntax]: http://daringfireball.net/projects/markdown/syntax
             "Markdown is what the parser uses to process much of the readme file"
