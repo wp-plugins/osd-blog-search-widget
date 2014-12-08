@@ -3,7 +3,7 @@ Contributors: osdwebdev
 Tags: wordpress, blog search, search, blog posts only search, custom search, search only posts
 Requires at least: 3.4
 Tested up to: 4.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,6 +12,9 @@ OSD Blog Search Widget plugin adds a widget that contains a form for searching b
 == Description ==
 
 OSD Blog Search Widget can be placed in any area on your site that your theme allows.  It provides a search box that will only display results from searching  your blog posts.  It excludes any other post type including Page and custom post types.  It is light weight and works fine in conjunction with your current site search form.
+
+Translations:
+Serbian, by Ogi Djuraskovic (<a href="http://firstsiteguide.com/">http://firstsiteguide.com/</a>)
 
 == Installation ==
 
@@ -33,6 +36,9 @@ Yes, as users ask us questions.
 2. Search input in left sidebar
 
 == Changelog ==
+
+= 1.3 =
+* Now translated into Serbian
 
 = 1.2 =
 * Added placeholder field for search input
