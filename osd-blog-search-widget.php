@@ -3,7 +3,7 @@
 	Plugin Name: OSD Blog Search Widget
 	Plugin URI: http://outsidesource.com
 	Description: Adds a widget that adds a search form for searching blog posts only.
-	Version: 1.3
+	Version: 1.4
 	Author: OSD Web Development Team
 	Text Domain: osd-blog-search-widget
 	License: GPL2v2
@@ -36,7 +36,7 @@
 					<form method='get' action='".home_url('/')."'>
 						<input type='hidden' name='post_type' value='post' />
 						<input type='text' name='s' id='s' value='' placeholder='".$instance['placeholder']."' />
-						<input id='osd-search-submit' class='search-button' type='image' alt='Search' src='".get_bloginfo('template_url')."/images/search.svg' />
+						<input id='osd-search-submit' class='search-button' type='image' alt='Search' src='".plugins_url()."/osd-blog-search-widget/images/search.svg' />
 					</form>
 				</div>"; 
 			echo $after_widget;
